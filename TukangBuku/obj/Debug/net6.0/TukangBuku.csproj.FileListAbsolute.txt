@@ -1,0 +1,15 @@
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\bin\Debug\net6.0\TukangBuku.exe
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\bin\Debug\net6.0\TukangBuku.deps.json
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\bin\Debug\net6.0\TukangBuku.runtimeconfig.json
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\bin\Debug\net6.0\TukangBuku.dll
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\bin\Debug\net6.0\TukangBuku.pdb
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\obj\Debug\net6.0\TukangBuku.csproj.AssemblyReference.cache
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\obj\Debug\net6.0\TukangBuku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\obj\Debug\net6.0\TukangBuku.AssemblyInfoInputs.cache
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\obj\Debug\net6.0\TukangBuku.AssemblyInfo.cs
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\obj\Debug\net6.0\TukangBuku.csproj.CoreCompileInputs.cache
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\obj\Debug\net6.0\TukangBuku.dll
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\obj\Debug\net6.0\refint\TukangBuku.dll
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\obj\Debug\net6.0\TukangBuku.pdb
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\obj\Debug\net6.0\TukangBuku.genruntimeconfig.cache
+C:\Users\perna\source\repos\TukangBuku\TukangBuku\obj\Debug\net6.0\ref\TukangBuku.dll
